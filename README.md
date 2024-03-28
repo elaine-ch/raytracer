@@ -3,7 +3,7 @@
 Windows only. Dependencies include FreeImage and GLM, and are installed locally using MinGW, not maintained directly by the project. To run the project, use: ./raytrace.exe <input_file_name>. To obtain the source code, please contact me.
 
 ## About
-Done in collaboration with Delaware Wade as a project for a Computer Graphics Course. Uses Lambert and Blinn-Phong shading to achieve diffuse and specular lighting effects.
+Done in collaboration with Delaware Wade as a project for a Computer Graphics course. Uses Lambert and Blinn-Phong shading to achieve diffuse and specular lighting effects.
 
 ## Examples
 Cornell box
